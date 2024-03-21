@@ -49,6 +49,8 @@ To develop AI systems that can fully understand and translate what a cat is sayi
 
 [In pursuing of this project, there are acknowledged obstacles to overcome in achieving the goal of developing AI systems capable of understanding and translating cat vocalizations. These obstacles include collecting diverse and representative data, interpreting cat vocalizations subjectively, dealing with background noise and interference, limited understanding of cat communication, and the need for generalizability across contexts. However, through rigorous data collection, advanced machine learning algorithms, collaboration with experts, and continuous evaluation, significant progress can be made towards this objective.]
 
+Pushing the limit of whats possible is my desire.
+
 <a href="https://www.linkedin.com/in/marwaan-issa/" target="_blank" style="text-decoration: none; display: inline-block; background-color: #0077B5; color: white; padding: 10px 20px; border-radius: 4px;">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Profile" style="vertical-align: middle;">
   <span style="margin-left: 5px;"> Connect with me on LinkedIn</span>
