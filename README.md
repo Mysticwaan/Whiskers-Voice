@@ -41,7 +41,7 @@ To develop AI systems that can fully understand and translate what a cat is sayi
 - Feedback and Iteration:
   - Describes the strategy for incorporating user feedback and continuously improving the AI models.
   - Explains how feedback loops will be established and how the system's performance will be iterated upon.
-  - Highlights the importance of ongoing evaluation and refinement throughout the project.
+  - Highlights the importance of ongoing evaluation and refinement throughout the entire project.
 
 ---
 
