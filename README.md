@@ -13,7 +13,7 @@
 
 To develop AI systems that can fully understand and translate what a cat is saying in the way humans communicate with language, several advancements and research areas need to be addressed. Here are some key aspects that would contribute to achieving that level of understanding:
 
-- Data Collection: 
+- Data Collection:     
   - Explains the importance of collecting a diverse dataset of cat vocalizations.
   - Discusses the approach to gathering audio recordings of cat sounds, ensuring a wide range of vocalizations.
   - Mentions potential challenges in data collection and how they plan to address them.
