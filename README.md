@@ -17,7 +17,7 @@ To develop AI systems that can fully understand and translate what a cat is sayi
   - Explains the importance of collecting a diverse dataset of cat vocalizations.
   - Discusses the approach to gathering audio recordings of cat sounds, ensuring a wide range of vocalizations.
   - Mentions potential challenges in data collection and how they plan to address them.  
-
+  
 - Annotation and Labeling:
   - Describes the process of expert annotation and labeling to provide ground truth information.
   - Highlights the significance of associating vocalizations with specific meanings or intentions.
