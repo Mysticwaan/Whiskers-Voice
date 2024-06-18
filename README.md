@@ -8,7 +8,7 @@
 ## The pursuit of developing AI systems that can comprehend and translate cat vocalizations akin to human language   
   
 ---
- 
+   
 ## Key Aspects  
   
 To develop AI systems that can fully understand and translate what a cat is saying in the way humans communicate with language, several advancements and research areas need to be addressed. Here are some key aspects that would contribute to achieving that level of understanding:
