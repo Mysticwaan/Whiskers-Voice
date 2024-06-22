@@ -1,16 +1,13 @@
-![Cyborg_Cat](https://i.imgur.com/M4vaeubh.png)
-
-
-  
-
 # Whisker Voice
+![OIG2](https://github.com/Mysticwaan/Whiskers-Voice/assets/136006928/e91c6d22-46b6-4948-a2a8-b95e414aa3cc)
+
   
 ## The pursuit of developing AI systems that can comprehend and translate cat vocalizations akin to human language   
-    
+   
 ---
    
 ## Key Aspects    
-  
+  ![Cyborg_Cat](https://i.imgur.com/M4vaeubh.png)
 To develop AI systems that can fully understand and translate what a cat is saying in the way humans communicate with language, several advancements and research areas need to be addressed. Here are some key aspects that would contribute to achieving that level of understanding:
 
 - Data Collection:     
