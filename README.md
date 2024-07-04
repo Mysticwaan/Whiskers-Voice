@@ -1,7 +1,7 @@
 # Whisker Voice
 ![OIG2](https://github.com/Mysticwaan/Whiskers-Voice/assets/136006928/e91c6d22-46b6-4948-a2a8-b95e414aa3cc)
 
-  
+    
 ## The pursuit of developing AI systems that can comprehend and translate cat vocalizations akin to human language   
        
 ---
