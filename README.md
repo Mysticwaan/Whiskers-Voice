@@ -4,7 +4,7 @@
     
 ## The pursuit of developing AI systems that can comprehend and translate cat vocalizations akin to human language   
        
----
+---  
    
 ## Key Aspects    
   ![Cyborg_Cat](https://i.imgur.com/M4vaeubh.png)
