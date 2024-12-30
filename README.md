@@ -1,14 +1,25 @@
 # Whisker Voice
-![OIG2](https://github.com/Mysticwaan/Whiskers-Voice/assets/136006928/e91c6d22-46b6-4948-a2a8-b95e414aa3cc)
+## The pursuit of developing AI systems that can comprehend and translate cat vocalizations akin to human language  
 
-    
-## The pursuit of developing AI systems that can comprehend and translate cat vocalizations akin to human language   
-         
+<div style="display: flex; justify-content: space-around;">
+
+  <img src="https://github.com/user-attachments/assets/8b4e4f80-c6d7-4706-a9ca-6f3f15c9308e" alt="Cat with Helm - Image 1" style="width: 48%;">
+
+  <img src="https://github.com/user-attachments/assets/0885ed6f-b426-44b5-9c42-2b4544efb437" alt="Cat with Helm - Image 2" style="width: 48%;">
+
+</div>
+
+![Cyborg_Cat](https://i.imgur.com/M4vaeubh.png)
+
 ---  
    
 ## Key Aspects    
-  ![Cyborg_Cat](https://i.imgur.com/M4vaeubh.png)
+
 To develop AI systems that can fully understand and translate what a cat is saying in the way humans communicate with language, several advancements and research areas need to be addressed. Here are some key aspects that would contribute to achieving that level of understanding:
+
+![Screenshot 2024-12-30 131104](https://github.com/user-attachments/assets/baa677ad-18dd-4f25-b413-7f3127e70653)
+
+![OIG2](https://github.com/Mysticwaan/Whiskers-Voice/assets/136006928/e91c6d22-46b6-4948-a2a8-b95e414aa3cc)
 
 - Data Collection:     
   - Explains the importance of collecting a diverse dataset of cat vocalizations.
