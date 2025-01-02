@@ -43,14 +43,7 @@ To develop AI systems that can fully understand and translate what a cat is sayi
 
 ## Acknowledgments
 
-In pursuing this project, there are acknowledged obstacles to overcome in achieving the goal of developing AI systems capable of understanding and translating cat vocalizations. These obstacles include:
-- Collecting diverse and representative data.
-- Interpreting cat vocalizations subjectively.
-- Dealing with background noise and interference.
-- Limited understanding of cat communication.
-- Ensuring generalizability across contexts.
-
-Through rigorous data collection, advanced machine learning algorithms, collaboration with experts, and continuous evaluation, significant progress can be made towards this objective.
+In pursuing this project, there are acknowledged obstacles to overcome in achieving the goal of developing AI systems capable of understanding and translating cat vocalizations. 
 
 ---
 
