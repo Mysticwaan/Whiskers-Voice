@@ -1,6 +1,6 @@
 <div align="center">
 
-# Whisker Voice 🐱!
+# Whisker Voice 🐈!
 
 ![image](https://github.com/user-attachments/assets/5cfd8f3a-d4f0-4cd8-a1af-6399acfbcfdc)
 
