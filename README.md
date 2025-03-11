@@ -141,6 +141,3 @@ As the *Whisker Voice* project continues to evolve, several key areas for improv
 - **Real-Time Translation Application:** The development of a real-time translation app will allow users to interact with their cats more effectively.
 - **Breed-Specific Testing:** Testing the model across different cat breeds will ensure the system is generalizable and accurate for a wider range of feline vocalizations.
 
----
-
-*Whisker Voice* is a pioneering project that holds the potential to transform how humans communicate with their feline companions. By offering insights into the emotions, needs, and behaviors of cats, this research aims to enhance the human-animal bond. The ongoing effort is dedicated to continuous improvements in both the AI model and hardware components.
