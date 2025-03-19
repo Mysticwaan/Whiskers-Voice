@@ -1,9 +1,10 @@
 # Whisker Voice 🐈 
 
-*Whisker Voice* is an artificial intelligence-driven research initiative focused on decoding and translating feline vocalizations into human language. By integrating advanced machine learning techniques, sound analysis, and behavioral studies, this project aims to create a system capable of fostering a deeper understanding of cat communication. Ultimately, the goal is to bridge the communication gap between humans and cats, offering invaluable insights into their emotional states, needs, and behaviors.  
+*Whisker Voice* is an artificial intelligence-driven research initiative focused on decoding and translating feline vocalizations into human language. By integrating advanced machine learning techniques, sound analysis, and behavioral studies, this project aims to create a system capable of fostering a deeper understanding of cat communication. Ultimately, the goal is to bridge the communication gap between humans and cats, offering invaluable insights into their emotional states, needs, and behaviors. 
 
-![Cyborg_Cat](https://i.imgur.com/M4vaeubh.png)  
+[![image](https://github.com/user-attachments/assets/4038b22f-327c-472b-bfcd-fa3cc13890df)](https://whiskersvoice.netlify.app/)
 
+### Click the image to go to the website or keep scrolling to delve into the details of this research!🔬
 ---
 ## Table of Contents  
 
