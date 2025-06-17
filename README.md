@@ -31,11 +31,6 @@ The dataset employed for training and analysis consists of a wide variety of cat
 | cat_hiss_01   | 1.2          | Hiss              | 650                 | 2025-02-15 14:40 |
 | cat_pain_01   | 1.8          | Chirp             | 850                 | 2025-02-15 14:45 |
 
-[Audio Sample 1](https://github.com/user-attachments/assets/62292f44-089e-400d-a7b9-9de906febdc3)  
-[Audio Sample 2](https://github.com/user-attachments/assets/0a5f3ec9-2815-4b91-a2cc-833822b82dd2)  
-[Audio Sample 3](https://github.com/user-attachments/assets/7cb9779f-0b1f-42f4-802c-1f59cf0ad8a7)  
-[Audio Sample 4](https://github.com/user-attachments/assets/b36901ab-a9f4-49d5-998f-c1a2b8999aaf)  
-
 ---
 
 ## Tools & Methods Used for Analysis  
