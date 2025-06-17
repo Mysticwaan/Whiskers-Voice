@@ -73,7 +73,6 @@ The final working version of the Cat Helm was successfully fitted onto a test su
 
 ### 1. Spectrogram of Cat Vocalizations  
 The spectrogram below visualizes the frequency variations over time for different types of vocalizations, offering a clear view of their acoustic structure.  
-![Spectrogram](https://github.com/user-attachments/assets/7ef40b4d-c3a0-4e77-a74a-f01045f683b6)  
 
 ### 2. Clustering of Cat Vocalizations  
 | Cluster   | Number of Samples | Common Sound Type |
@@ -83,7 +82,6 @@ The spectrogram below visualizes the frequency variations over time for differen
 | Cluster 3 | 80               | Hissing          |
 | Cluster 4 | 100              | Chirps & Trills  |
 
-![Clustering](https://github.com/user-attachments/assets/39906c03-6468-4d1d-b8ec-5200b58eac3e)  
 
 ### 3. Confusion Matrix: Vocalization Classification  
 | Actual \ Predicted | Meow | Purr | Hiss | Chirp |
@@ -93,7 +91,6 @@ The spectrogram below visualizes the frequency variations over time for differen
 | **Hiss**           | 10%  | 3%   | 80%  | 7%    |
 | **Chirp**          | 6%   | 2%   | 5%   | 87%   |
 
-![Confusion Matrix](https://github.com/user-attachments/assets/fb781d4e-bcdc-45f7-9685-9472014dc82a)  
 
 ### 4. Frequency Distribution of Vocalization Types  
 | Vocalization Type | Frequency |
@@ -103,7 +100,6 @@ The spectrogram below visualizes the frequency variations over time for differen
 | Hiss              | 80        |
 | Chirp             | 100       |
 
-![Frequency Distribution](https://github.com/user-attachments/assets/c85302dc-0c63-40ea-bfbe-ea8a405a8662)  
 
 ---
 
